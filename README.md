@@ -13,4 +13,4 @@ Nikita Fedyashin(Islands) and Polina Karpikova(Main Path Approach)
 :black_square_button: Implement Islands  
 :black_square_button: Implement Main path  
 ## Dataset description
-Twitter dataset consists of 1,000 ego-networks, consisting of 4,869 circles and 81,362 users. The ego-networks authors of the dataset obtained range in size from 10 to 4,964 nodes.
+Twitter dataset consists of 1,000 ego-networks, consisting of 81,306 users. The ego-networks authors of the dataset obtained range in size from 10 to 4,964 nodes.
