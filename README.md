@@ -7,9 +7,10 @@ It is also interesting to apply the above algorithms together to study the struc
 Nikita Fedyashin(Islands) and Polina Karpikova(Main Path Approach)
 ### [Communication channel](https://t.me/+q0NI6z5G61JiMzky)
 ## Checklist
-:white_check_mark: Choose network  
-:white_check_mark: Download network  
+:white_check_mark: Choose dataset  
+:heavy_check_mark: Download dataset  
 :black_square_button: Choose framework  
-  
 :black_square_button: Implement Islands  
 :black_square_button: Implement Main path  
+## Dataset description
+U.S. patent dataset is maintained by the National Bureau of Economic Research. The data set spans 37 years (January 1, 1963 to December 30, 1999), and includes all the utility patents granted during that period, totaling 3,923,922 patents. The citation graph includes all citations made by patents granted between 1975 and 1999, totaling 16,522,438 citations.
