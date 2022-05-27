@@ -13,4 +13,4 @@ Nikita Fedyashin(Islands) and Polina Karpikova(Main Path Approach)
 :black_square_button: Implement Islands  
 :black_square_button: Implement Main path  
 ## Dataset description
-U.S. patent dataset is maintained by the National Bureau of Economic Research. The data set spans 37 years (January 1, 1963 to December 30, 1999), and includes all the utility patents granted during that period, totaling 3,923,922 patents. The citation graph includes all citations made by patents granted between 1975 and 1999, totaling 16,522,438 citations.
+Twitter dataset consists of 1,000 ego-networks, consisting of 4,869 circles and 81,362 users. The ego-networks authors of the dataset obtained range in size from 10 to 4,964 nodes.
