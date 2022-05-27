@@ -7,9 +7,9 @@ It is also interesting to apply the above algorithms together to study the struc
 Nikita Fedyashin(Islands) and Polina Karpikova(Main Path Approach)
 ### [Communication channel](https://t.me/+q0NI6z5G61JiMzky)
 ## Checklist
-:green_check_mark: Choose network
-:green_check_mark: Download network
-:black_square_button: Choose framework
-
-:black_square_button: Implement Islands
-:black_square_button: Implement Main path
+[x] Venus Choose network  
+[x] Venus Download network  
+:black_square_button: Choose framework  
+  
+:black_square_button: Implement Islands  
+:black_square_button: Implement Main path  
